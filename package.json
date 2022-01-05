@@ -1,0 +1,28 @@
+{
+  "name": "reactandwebpackfromscratch",
+  "version": "1.0.0",
+  "description": "Boilerplate for React apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celdama/react-and-webpack-from-scratch.git"
+  },
+  "author": "Celdama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Celdama/react-and-webpack-from-scratch/issues"
+  },
+  "homepage": "https://github.com/Celdama/react-and-webpack-from-scratch#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.2"
+  }
+}
